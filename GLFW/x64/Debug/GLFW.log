@@ -1,0 +1,5 @@
+﻿  glad.cpp
+  glm.cpp
+  Main.cpp
+C:\Users\arturoordonez\Desktop\GIT2\GLFW\GLFW\Src\Main.cpp(6,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  Generating Code...

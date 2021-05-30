@@ -1,3 +1,4 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   Main.cpp
-  GLFW.vcxproj -> C:\Users\artur\Desktop\GIT\GLFW\GLFW\Debug\GLFW.exe
+C:\Users\arturoordonez\Desktop\GIT2\GLFW\GLFW\Includes\learnopengl\shader.h(56,40): warning C4101: 'e': unreferenced local variable
+  GLFW.vcxproj -> C:\Users\arturoordonez\Desktop\GIT2\GLFW\GLFW\Debug\GLFW.exe
